@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/fayaz1102/NewDemo/_apis/build/status/fayaz1102.firstpipeline?branchName=master)](https://dev.azure.com/fayaz1102/NewDemo/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
